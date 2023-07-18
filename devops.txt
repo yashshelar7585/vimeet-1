@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is devops
+=======
+devops is good.
+>>>>>>> boy
